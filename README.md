@@ -2,10 +2,11 @@
 
  💡 Major in Computer Technology
  
- 💬 Backend · LLM · Agent · RAG 
+ 💬 Backend · LLM · Agent
  
  🛠 Golang，Python
-
+ 
+![PowerContext](https://img.shields.io/badge/powercontext-Contributor-red?style=flat-square&logo=github&logoColor=white)
 
 <!--
 **beatenevo/beatenevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
