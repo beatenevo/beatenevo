@@ -7,9 +7,14 @@
  🛠 Golang，Python
 
  Contributing to the revision of ai-agent-book
-
-![PowerContext](https://img.shields.io/badge/powercontext-Contributor-red?style=flat-square&logo=github&logoColor=white)
-![Dubbo-Admin](https://img.shields.io/badge/Dubbo--Admin-Contributor-red?style=flat-square&logo=github&logoColor=white)
+ 
+## Current Contributions
+| Project | Area | About |
+|:---:|:---|:---|
+| [PowerContext](https://github.com/oceanbase/powercontext) | Agent Memory | Memory infrastructure for AI agents, supporting persistent memory management and retrieval |
+| [Apache Seata-Go](https://github.com/apache/incubator-seata-go) | Distributed Transactions | Go implementation of Apache Seata for distributed transaction management |
+| [Apache Dubbo-Admin](https://github.com/apache/dubbo-admin) | Microservices Management | Web-based management platform for Apache Dubbo microservices |
+| [Getty](https://github.com/apache/dubbo-getty) | Network Programming | High-performance network communication framework in Go |
 <!--
 **beatenevo/beatenevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
