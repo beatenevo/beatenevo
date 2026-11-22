@@ -6,7 +6,7 @@
  
  🛠 Golang，Python
 
- Contributing to the revision of ai-agent-book
+ Contributing to the revision of [ai-agent-book](https://github.com/bojieli/ai-agent-book)
  
 ## Current Contributions
 <table>
